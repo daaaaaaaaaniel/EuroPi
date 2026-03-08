@@ -1,0 +1,89 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,10uF,C_0805_2012Metric,38.15,-16.5,180.0,top
+C10,100nF,C_0603_1608Metric,35.0,-23.2,0.0,top
+C11,100nF,C_0603_1608Metric,2.575,-33.2,180.0,top
+C12,100nF,C_0603_1608Metric,17.1,-25.7,0.0,top
+C13,100nF,C_0603_1608Metric,2.575,-36.25,180.0,top
+C14,100nF,C_0603_1608Metric,24.0,-24.2,180.0,top
+C15,1nF,C_0603_1608Metric,24.0,-35.0,180.0,top
+C16,100nF,C_0603_1608Metric,17.1,-27.25,0.0,top
+C17,100nF,C_0603_1608Metric,24.0,-27.2,180.0,top
+C18,100nF,C_0603_1608Metric,35.0,-35.5,0.0,top
+C2,10uF,C_0805_2012Metric,34.55,-16.5,0.0,top
+C3,1uF,C_0603_1608Metric,3.0,-74.0,0.0,top
+C4,100nF,C_0603_1608Metric,9.6,-32.5,180.0,top
+C5,100nF,C_0603_1608Metric,13.3,-32.5,180.0,top
+C6,100nF,C_0603_1608Metric,27.4,-20.1,180.0,top
+C7,100nF,C_0603_1608Metric,31.5,-20.1,180.0,top
+C9,100nF,C_0603_1608Metric,35.0,-28.0,180.0,top
+D1,D,D_SMA,38.0,-11.9,-90.0,top
+D2,D,D_SMA,2.1,-68.8,-90.0,top
+D3,D,D_SMA,20.4,-2.0,180.0,top
+D5,D,D_SMA,38.0,-4.5,90.0,top
+J1,Conn_02x05_Odd_Even,power-header-10-pin-unlabelled,19.13,-10.1,270.0,bottom
+J10,Output 6 Jack,jack-thonkiconn-mono,33.14,-102.3,90.0,top
+J11,Conn_01x04_Pin,PinHeader_1x04_P2.54mm_Vertical,2.54,-6.35,180.0,bottom
+J2,Conn_01x04_Pin,PinHeader_1x04_P2.54mm_Vertical,5.14,-24.4,180.0,top
+J3,Output 1 Jack,jack-thonkiconn-mono,7.5,-83.3,90.0,top
+J4,Output 4 Jack,jack-thonkiconn-mono,7.5,-102.3,90.0,top
+J5,Analogue Input Jack,jack-thonkiconn-mono,30.64,-8.8,90.0,top
+J6,Output 2 Jack,jack-thonkiconn-mono,20.32,-83.3,90.0,top
+J7,Output 5 Jack,jack-thonkiconn-mono,20.32,-102.3,90.0,top
+J8,Digital Input Jack,jack-thonkiconn-mono,10.0,-8.8,90.0,top
+J9,Output 3 Jack,jack-thonkiconn-mono,33.14,-83.3,90.0,top
+LED1,LED,led-3mm,7.5,-74.5,0.0,top
+LED2,LED,led-3mm,7.5,-93.5,0.0,top
+LED3,LED,led-3mm,20.32,-74.5,0.0,top
+LED4,LED,led-3mm,20.32,-93.5,0.0,top
+LED5,LED,led-3mm,33.14,-74.5,0.0,top
+LED6,LED,led-3mm,33.14,-93.5,0.0,top
+Q1,2N2222,SOT-89-3,10.7,-19.6375,0.0,top
+R1,1K,R_0603_1608Metric,35.0,-26.4,0.0,top
+R10,220K,R_0603_1608Metric,17.1,-21.2,180.0,top
+R11,4K7,R_0603_1608Metric,5.4,-15.0,0.0,top
+R12,4K7,R_0603_1608Metric,17.1,-18.2,180.0,top
+R13,1K,R_0603_1608Metric,2.4,-16.6,180.0,top
+R14,1K,R_0603_1608Metric,17.1,-19.7,0.0,top
+R15,100K,R_0603_1608Metric,35.0,-29.5,180.0,top
+R16,1K,R_0603_1608Metric,2.575,-37.8,180.0,top
+R17,1K,R_0603_1608Metric,24.0,-22.7,180.0,top
+R18,22K,R_0603_1608Metric,35.0,-31.0,180.0,top
+R19,100K,R_0603_1608Metric,5.8,-33.2,180.0,top
+R2,1K,R_0603_1608Metric,35.0,-24.8,0.0,top
+R20,100K,R_0603_1608Metric,24.0,-21.2,180.0,top
+R21,220K,R_0603_1608Metric,5.8,-34.7,0.0,top
+R22,220K,R_0603_1608Metric,24.0,-19.7,0.0,top
+R23,22K,R_0603_1608Metric,35.0,-32.5,0.0,top
+R24,4K7,R_0603_1608Metric,5.8,-36.2,0.0,top
+R25,4K7,R_0603_1608Metric,27.0,-18.2,180.0,top
+R26,1K,R_0603_1608Metric,5.8,-37.7,180.0,top
+R27,1K,R_0603_1608Metric,24.0,-18.2,180.0,top
+R28,22K,R_0603_1608Metric,35.0,-34.0,180.0,top
+R29,1K,R_0603_1608Metric,17.1,-28.8,0.0,top
+R3,1K,R_0603_1608Metric,2.575,-34.7,180.0,top
+R30,1K,R_0603_1608Metric,24.0,-25.7,180.0,top
+R31,100K,R_0603_1608Metric,17.1,-30.3,0.0,top
+R32,100K,R_0603_1608Metric,24.0,-28.7,180.0,top
+R33,220K,R_0603_1608Metric,17.1,-31.85,180.0,top
+R34,220K,R_0603_1608Metric,24.0,-30.2,0.0,top
+R35,100K,R_0603_1608Metric,2.4,-13.4,0.0,top
+R36,4K7,R_0603_1608Metric,17.1,-33.35,180.0,top
+R37,4K7,R_0603_1608Metric,24.0,-31.7,0.0,top
+R38,1K,R_0603_1608Metric,17.1,-34.9,0.0,top
+R39,1K,R_0603_1608Metric,24.0,-33.2,180.0,top
+R4,1K,R_0603_1608Metric,17.1,-24.2,0.0,top
+R40,10K,R_0603_1608Metric,2.4,-15.0,0.0,top
+R5,10K,R_0603_1608Metric,24.0,-36.6,0.0,top
+R6,10K,R_0603_1608Metric,27.0,-36.6,180.0,top
+R7,100K,R_0603_1608Metric,13.8,-16.2,0.0,top
+R8,100K,R_0603_1608Metric,17.1,-22.7,0.0,top
+R9,220K,R_0603_1608Metric,5.4,-16.6,0.0,top
+SW1,SW_Push,switch-momentary-c&k,10.0,-58.75,0.0,top
+SW2,SW_Push,switch-momentary-c&k,30.64,-58.75,0.0,top
+U2,PICO_RP2040,raspberry-pi-pico,29.39,-46.93,0.0,bottom
+U3,TL074,SOIC-14_3.9x8.7mm_P1.27mm,11.6,-27.0,0.0,top
+U4,TL074,SOIC-14_3.9x8.7mm_P1.27mm,29.5,-25.5,0.0,top
+U5,MCP6002-xSN,SOIC-8_3.9x4.9mm_P1.27mm,29.5,-33.1,0.0,top
+U6,L7805,TO-252-2,9.8,-68.52,0.0,top
+VR1,KNOB 1,potentiometer-9mm,10.0,-50.75,0.0,top
+VR2,KNOB 2,potentiometer-9mm,30.64,-50.75,0.0,top
